@@ -1,0 +1,2 @@
+# JavaScript Workspace
+ES6
