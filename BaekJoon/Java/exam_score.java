@@ -18,5 +18,6 @@ public class exam_score {
         else{
             System.out.println("F");
         }
+        t.close();
     }
 }
