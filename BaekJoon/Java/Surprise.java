@@ -4,6 +4,7 @@ public class Surprise {
         Scanner a = new Scanner(System.in);
         String name = a.next();
         System.out.println(name + "??!");
+        System.out.println("dd");
         a.close();
     }
 }
