@@ -13,6 +13,6 @@ public class a_compare_b{
         else{
             System.out.println("==");
         }
-        t.close();
+        
     }
 }
