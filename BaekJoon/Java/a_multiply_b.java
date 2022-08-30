@@ -5,6 +5,7 @@ public class a_multiply_b{
        int A = a.nextInt();
        int B = a.nextInt();
        System.out.println(A*B);
+       System.out.println("good");
        a.close();
     }
     
